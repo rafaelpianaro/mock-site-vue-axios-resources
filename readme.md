@@ -24,17 +24,17 @@ ___________________
 
 * **Logo WDEV:**  
 ```
-https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/images/wdev.svg
+https://github.com/rafaelpianaro/mock-site-vue-axios-resources/blob/main/assets/images/wdev.svg
 ```
 
 * **Inscreva-se:**
 ```
-https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/images/subscribe.svg
+https://github.com/rafaelpianaro/mock-site-vue-axios-resources/blob/main/assets/images/subscribe.svg
 ```
 
 * **Menu Mobile:**
 ```
-https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/images/menu.svg
+https://github.com/rafaelpianaro/mock-site-vue-axios-resources/blob/main/assets/images/menu.svg
 ```
 
 As imagens das redes sociais estarão disponíveis no response da API de `GET /social-links.json`;
@@ -44,7 +44,7 @@ ___________________
 
 Esse repositório será o endpoint das APIs do front, então é necessário configurar a seguinte URL como base:
 ```
-https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/api
+https://github.com/rafaelpianaro/mock-site-vue-axios-resources/tree/main/api
 ```
 
 A partir dessa URL teremos os seguintes recursos:
